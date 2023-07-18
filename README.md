@@ -57,6 +57,7 @@ This project is a web-based application designed to facilitate user interactions
 - Once the web page is fully loaded in a web browser, you can utilize the functionality of the application.
 
 - Screenshorts
+  
   ![login](https://github.com/sureshmukhi369/crurd_app/assets/139912199/7bd1491b-fd80-4d9d-8de9-773acd2ec145)
 
   ![menu](https://github.com/sureshmukhi369/crurd_app/assets/139912199/d941b01a-fc45-40c8-8d2c-265d5763dd28)
